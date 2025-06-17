@@ -42,21 +42,18 @@
                 ]
             },
             {
-                "layout": 3,
+                "layout": 2,
                 "buttontext": "<RichColor Color=\"0,1,1,1\">LOOT DROPS</>",
-                "imageurl": "https://i.ibb.co/FkFMG1v3/Background-67.png",
+                "imageurl": "https://i.ibb.co/bMBZNPdb/Background-71.png",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
+                        "title": "",
+                        "text": "WHITE LOOT DROPS\nTBC\n\nGREEN LOOT DROPS\n<RichColor Color=\"0,1,0,1\">GREEN GEMS</>\nGreen loot drops contain 50,000 Green gems\n\n<RichColor Color=\"0,0,1,1\">BLUE LOOT DROPS</>\nSADDLE BPs\nBlue loot drops contain a selection of 10 saddle BPs\nMastercraft - Ascendant\n1 x Platform Saddle BP\n1 x Tek Saddle BP\n2 x Aquatic Saddle BPs\n2 x Flyer Saddle BPs\n2 x Reptilian Saddle BPs\n2 x Land Saddle BPs\n\n<RichColor Color=\"0.5,0,0.5,1\">PURPLE LOOT DROPS</>\nARMOR BPS\nPurple loot drops contain 2 sets of full Armor BPs\nMastercraft - Ascendant\nGhillie\nFlak\nRiot\nTek\n\n<RichColor Color=\"1,1,0,1\">YELLOW LOOT DROPS</>\nYellow loot drops contain\n Mastercraft - Ascendant BPs\n1 x Metal Sword BP\n1 x Metal Pickaxe BP\n1 x Metal Hatchet BP\n8 x Random Weapon BPs\n\n<RichColor Color=\"1,0,0,1\">RED LOOT DROPS</>\nFLOATING STRUCTURES\n\nRed loot drops contain 5 random floating structures\nRound Platforms\nLarge, Medium, Small, Tiny\nRound Dome Platforms\nLarge, Medium, Small, Tiny\nSquare Platforms\nLarge, Medium, Small, Tiny\nSpecial Platforms\nHealing\nGenerator\nSteampunk\nLanding\nGreenhouse (Greenhouse Effect and always Watering)\nWater Cage\nMedium, Small\nPlatform Walkway\nHorizontal, Up, Down, Cross\n\n
+"
                     },
                     {
-                        "title": "Top right title",
-                        "text": "This text goes into the top right box"
-                    },
-                    {
-                        "title": "Bottom right title",
-                        "text": "This text goes into the bottom right box"
+                        "title": "",
+                        "text": ""
                     }
                 ]
             },
