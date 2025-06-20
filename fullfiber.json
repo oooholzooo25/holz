@@ -58,12 +58,12 @@
             },
             {
                 "layout": 4,
-                "buttontext": "4 Box layout",
+                "buttontext": "<RichColor Color=\"0,1,1,1\">FPS CODES</>",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Top left title",
-                        "text": "<TextStyle.Orange>This text goes into the top left box</>"
+                        "title": "",
+                        "text": "r.VolumetricCloud 0: (Disables clouds)\nr.volumetricfog 0 (Disables Fog)\nr.ShadowQuality 0 (disables all shadows)\nr.Water.SingleLayer.Reflection 0(Degrades water quality)\ngrass.enable 0 (Disables Grass)\nr.DynamicGlobalIlluminationMethod 0 (Disables Lumen)\nr.Lumen.Reflections.Allow 0 (Disables Lumen Reflections)\nr.MaterialQualityLevel 0 (Disables Textures)"
                     },
                     {
                         "title": "<TextStyle.Green>Top right title</>",
